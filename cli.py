@@ -109,7 +109,6 @@ def deletar_corrida():
     print("\n--- Deletar Registro ---")
     ver_banco() 
     
-    
     print("\n[Dica: Digite 0 se quiser cancelar e voltar ao menu]")
     id_para_deletar = int(obter_numero_positivo("Digite o ID da corrida que deseja apagar: "))
     
