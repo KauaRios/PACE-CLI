@@ -59,7 +59,7 @@ Escolha uma opção: 1
 
 --- Cadastro de Corrida ---
 Data (AAAA-MM-DD): 2024-06-27
-Tipo (Ex: Corrida na rua): Treino leve
+Tipo (Ex: Corrida na rua): Corrida Esteira
 Distância (km): 5
 Minutos: 25
 Segundos: 30
