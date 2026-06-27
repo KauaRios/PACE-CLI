@@ -1,4 +1,4 @@
-# ADICIONADO JA READ,PUSH E DELETE  
+# Adicionado  read,push e delete
 
 
 
